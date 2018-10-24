@@ -153,6 +153,7 @@ public class qapplet extends Applet {
 		Dimension dim = this.getMaximumSize();
 		this.setSize(dim);
 		
+		//xxx
 		//frame.setSize(dim.width, dim.height);
 		
 		//this.setSize(1440, 1024);
