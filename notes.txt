@@ -1,0 +1,5 @@
+keytool -genkey -validity 1800
+	keytool -list
+	keytool -delete
+	
+jarsigner qenes.jar mykey
