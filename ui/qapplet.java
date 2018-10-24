@@ -136,7 +136,6 @@ public class qapplet extends Applet {
 		return jScrollPane;
 	}
 	
-
   //  @jve:decl-index=0:
 	ArrayList<Integer> childs = new ArrayList<Integer>();  //  @jve:decl-index=0:
 	ArrayList<Integer> siblings = new ArrayList<Integer>();  //  @jve:decl-index=0:
